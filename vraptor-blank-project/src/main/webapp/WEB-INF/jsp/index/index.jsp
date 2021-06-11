@@ -5,6 +5,8 @@
 <title>VRaptor Blank Project</title>
 </head>
 <body>
-	It works!! ${variable} ${linkTo[IndexController].index}
+	<main>
+		<p>It works!! ${variable} ${linkTo[IndexController].index}</p>
+	</main>
 </body>
 </html>
