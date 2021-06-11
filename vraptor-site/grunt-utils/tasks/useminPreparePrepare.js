@@ -1,4 +1,5 @@
 "use strict";
+
 var path = require("path");
 
 function groupPaths(/* [""] */ paths) {
